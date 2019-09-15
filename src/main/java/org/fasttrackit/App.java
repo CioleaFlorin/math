@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args ){
         Addition addition = new Addition();
-        //System.out.println("Addition: " + addition.sum(2, 2));
+        //System.out.println("Addition: " + addition.sum(2.0, 2.0));
 
         Subtraction subtraction=new Subtraction();
         //System.out.println("Subtraction: " + subtraction.subtraction(3,1));

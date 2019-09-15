@@ -7,4 +7,8 @@ public class Addition {
         return nr1+nr2;
     }
 
+    public double sum(double nr1, double nr2){
+        return nr1+nr2;
+    }
+
 }
